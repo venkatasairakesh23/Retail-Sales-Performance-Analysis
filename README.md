@@ -10,3 +10,10 @@ Objectives
 2. Analyze sales & profit trends over time.
 3. Identify top-performing products, categories, and regions.
 4. Provide actionable recommendations to improve sales.
+
+Technologies Used
+
+Python: Data cleaning & analysis.
+Pandas & NumPy: Data wrangling.
+Matplotlib & Seaborn: Data visualization.
+Jupyter Notebook: Development environment
